@@ -15,7 +15,7 @@ cd ./src/frontend
 Install dependencies:
 
 ```bash
-npm i
+yarn
 ```
 
 Run aqua compiler:
@@ -27,7 +27,7 @@ fluence aqua
 Run the Node.js application:
 
 ```bash
-npm start
+yarn start
 ```
 
 ## Learn more
